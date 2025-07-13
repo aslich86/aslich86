@@ -42,6 +42,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aslich86&layout=compact&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=aslich86&style=flat-square&color=blue)
+
+![GitHub followers](https://img.shields.io/github/followers/aslich86?style=flat-square)
+
+
 <!-- Opsional: Snake Animation -->
 <!-- ![GitHub Snake](https://github.com/aslich86/aslich86/raw/output/github-contribution-grid-snake.svg) -->
 
