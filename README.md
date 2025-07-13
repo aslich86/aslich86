@@ -1,14 +1,14 @@
 ## 👋 Halo, saya Iwan Aslich!
 
-🎓 **Cumlaude Graduate, Informatika** – Universitas Siber Asia 2025  
-🏆 **Distinction Graduate** – Bangkit Academy 2023, Cloud Computing Learning Path
-🎯 **Graduate** – RevoU Tech Academy - Learn Data Analytics & Software Development With AI 2024
-🎯 **Graduate** – Laskar AI - AI Engineer, Data Science, and MLOps 2025
-📜 **Certified** – Cisco DevNet Associate 2023
-📜 **Certified** – Google IT Support 2022
-📜 **Certified** – Machine Learning for Data Scientist (R Programming) 2024
-💡 Tertarik pada bidang **Data Science**, **Cybersecurity**, dan **Software Engineering**  
-🚀 Saat ini mengembangkan **MerpatiApp** — aplikasi chat berbasis AI karya anak bangsa.
+- 🎓 **Cumlaude Graduate, Informatika** – Universitas Siber Asia 2025  
+- 🏆 **Distinction Graduate** – Bangkit Academy 2023, Cloud Computing Learning Path
+- 🎯 **Graduate** – RevoU Tech Academy - Learn Data Analytics & Software Development With AI 2024
+- 🎯 **Graduate** – Laskar AI - AI Engineer, Data Science, and MLOps 2025
+- 📜 **Certified** – Cisco DevNet Associate 2023
+- 📜 **Certified** – Google IT Support 2022
+- 📜 **Certified** – Machine Learning for Data Scientist (R Programming) 2024
+- 💡 Tertarik pada bidang **Data Science**, **Cybersecurity**, dan **Software Engineering**  
+- 🚀 Saat ini mengembangkan **MerpatiApp** — aplikasi chat berbasis AI karya anak bangsa.
 
 ---
 
