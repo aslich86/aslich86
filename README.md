@@ -34,4 +34,16 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+
+![Iwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslich86&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aslich86&layout=compact&theme=tokyonight)
+
+<!-- Opsional: Snake Animation -->
+<!-- ![GitHub Snake](https://github.com/aslich86/aslich86/raw/output/github-contribution-grid-snake.svg) -->
+
+
 > 🕊️ *“Membangun teknologi Indonesia dari kampung halaman — satu baris kode setiap hari.”*
