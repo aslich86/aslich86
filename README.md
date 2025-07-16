@@ -30,7 +30,7 @@
 ### 📫 Terhubung dengan Saya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aslich)  
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=flat-square)](https://www.youtube.com/iwanaslich)  
-[![KambingCoding](https://img.shields.io/badge/KambingCoding-Portfolio-blueviolet)](https://kambingcoding.vercel.app)
+[![KambingCoding](https://img.shields.io/badge/KambingCoding-Blog-blueviolet)](https://kambingcoding.vercel.app)
 
 ---
 
