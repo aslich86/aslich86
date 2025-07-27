@@ -31,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aslich)  
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=flat-square)](https://www.youtube.com/iwanaslich)  
 [![KambingCoding](https://img.shields.io/badge/KambingCoding-Blog-blueviolet)](https://kambingcoding.vercel.app)
-[![Portofolio](https://img.shields.io/badge/Iwan'sPortfolio-Portfolio-blueviolet)](https://aslich86.vercel.app)
+[![Portofolio](https://img.shields.io/badge/Iwan'sPortfolio-Portfolio-mint)](https://aslich86.vercel.app)
 
 ---
 
